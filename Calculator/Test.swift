@@ -7,3 +7,10 @@
 //
 
 import Foundation
+class test {
+    let viewController = ViewController() {
+        init() {
+            viewController.isFinishedTypingNumber
+        }
+    }
+}
