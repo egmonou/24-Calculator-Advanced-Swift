@@ -7,7 +7,7 @@
 //
 
 import Foundation
-class CalculatorLogic {
+struct CalculatorLogic {
     
     var number: Double
     
